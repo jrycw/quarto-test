@@ -1,0 +1,4 @@
+great-tables
+polars==0.20.26
+pandas
+pyarrow
